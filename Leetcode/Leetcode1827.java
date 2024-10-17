@@ -1,5 +1,4 @@
-
-public class Leetcode1827 {
+class Leetcode1827 {
     public static void main(String[] args){
             int[] num = {1,5,2,4,1};
             System.out.println(minOperations(num));
