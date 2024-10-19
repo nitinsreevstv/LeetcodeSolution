@@ -33,9 +33,7 @@ public class BinarySearch {
 				}else{
 					start = mid+1;
 				}
-			}
-			
-			
+			}	
 		}
 		return 0;
 	}
