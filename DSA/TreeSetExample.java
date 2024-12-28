@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class TreeSetExample {  
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         int[] arr = {2, 3, 4, 4, 5, 6, 3, 2, 34, 23, 22, 32, 56, 43, 3, 4, 11};
         System.out.println("Sort the unique values only:");  
         sortedSet(arr);
